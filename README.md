@@ -23,7 +23,7 @@ A Software Quality Assurance (SQA) project focused on reviewing and evaluating t
 
 ## Documentation
 
-[Software Quality Assurance Report](./Nhom3_DBCLPM.pdf)
+[Software Quality Assurance Report](Nhom3_DBCLPM.pdf)
 
 ## Acknowledgements
 
