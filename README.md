@@ -25,7 +25,7 @@ A Software Quality Assurance (SQA) project focused on reviewing and evaluating t
 
 [Software Quality Assurance Report](https://pearskyrich.github.io/Software-Quality-Assurance-Review-Fast-Food-Management-System/Nhom3_DBCLPM.pdf)
 
-[Project Documentation](https://pearskyrich.github.io/Software-Quality-Assurance-Review-Fast-Food-Management-SystemBTL_Môn%20NM%20CNPM)
+[Project Documentation](https://pearskyrich.github.io/Software-Quality-Assurance-Review-Fast-Food-Management-SystemBTL_Môn%20NM%20CNPM.pdf)
 
 ## Acknowledgements
 
