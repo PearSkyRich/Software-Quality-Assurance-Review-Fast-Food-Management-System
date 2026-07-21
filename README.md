@@ -9,11 +9,11 @@ A Software Quality Assurance (SQA) project focused on reviewing and evaluating t
 - Reported issues and improvement recommendations
 
 ## My Responsibilities
--Participated in the development of a Fast Food Management System following the SDLC.
--Performed code reviews to evaluate coding standards and code quality.
--Reviewed test cases and assessed software testing activities.
--Identified defects and documented quality improvement recommendations.
--Collaborated with the development team to improve software quality throughout the SDLC.
+- Participated in the development of a Fast Food Management System following the SDLC.
+- Performed code reviews to evaluate coding standards and code quality.
+- Reviewed test cases and assessed software testing activities.
+- Identified defects and documented quality improvement recommendations.
+- Collaborated with the development team to improve software quality throughout the SDLC.
 
 ## Tech Stack
 - Spring Boot
